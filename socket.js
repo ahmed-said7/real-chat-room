@@ -1,7 +1,7 @@
 let server=require('http').createServer();
 let io=require('socket.io')(server);
 
-// client side  developer,should  know how to deal with socket-io 
+
 
 // client side
 //let io=require('socket.io-client');
